@@ -14,5 +14,4 @@ Qu0ta
 FlashGriefs
 Integr
 Odd_Byte
-123456790
 NopeNotToday
